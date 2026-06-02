@@ -52,6 +52,24 @@ Intelligent workflow orchestration platforms specializing in multi-step business
 
 ---
 
+### 📊 GitHub Stats
+ 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mushoodxohanif&theme=tokyonight" alt="GitHub Profile Summary"/>
+</div>
+ 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mushoodxohanif&theme=tokyonight" alt="GitHub Stats" height="200"/>
+</div>
+ 
+---
+ 
+### 📈 Contribution Activity
+ 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mushoodxohanif&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
 ## 🤝 Let's Connect!
 * 🌐 **Website:** [mushoodhanif.com](https://mushoodhanif.com)
 * 💼 **LinkedIn:** [/in/mushood-hanif](https://linkedin.com/in/mushood-hanif)
