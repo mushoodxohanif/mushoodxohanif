@@ -27,22 +27,6 @@ I am a **Senior Full-Stack Engineer and Team Lead** with over 5 years of experie
 
 ---
 
-## 🚀 Highlighted Products & Open Source
-
-### 🤖 [Scintia](https://github.com/yourusername/scintia) — AI Voice Automation Platform
-A B2B platform engineered for configuring and scaling AI voice agents across complex sales and support workflows. Built with a modern React ecosystem and real-time state handling.
-
-### ⚖️ [Regula](https://github.com/yourusername/regula) — AI Compliance & DocGen
-An AI-powered system designed for generating and validating complex, data-heavy business compliance documents and tracking regulatory processes.
-
-### 🐼 [Ping Panda](https://github.com/yourusername/ping-panda) — Real-Time Notification System
-An event-driven architecture built to track and deliver high-frequency user events across distributed applications with zero UI lag.
-
-### ⚡ [Clio](https://github.com/yourusername/clio) & [Jubeo](https://github.com/yourusername/jubeo) — Operations & Productivity Automation
-Intelligent workflow orchestration platforms specializing in multi-step business automation, systems integration, and operational pipelines.
-
----
-
 ## 📊 Performance & Impact Metrics
 
 * **System Reliability:** Engineered write-safety protocols that cut data race conditions and session errors by **40%**.
