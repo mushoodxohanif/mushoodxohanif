@@ -57,6 +57,6 @@ I am a **Senior Full-Stack Engineer and Team Lead** with over 5 years of experie
 ## 🤝 Let's Connect!
 * 🌐 **Website:** [mushoodhanif.com](https://mushoodhanif.com)
 * 💼 **LinkedIn:** [/in/mushood-hanif](https://linkedin.com/in/mushood-hanif)
-* 📧 **Email:** [mohdmushood@yahoo.com](mailto:mohdmushood@yahoo.com)
+* 📧 **Email:** [mushood.hanif@xorora.com](mushood.hanif@xorora.com)
 
 *“Building resilient architectures that bridge the gap between complex AI capabilities and seamless, lightning-fast user experiences.”*
